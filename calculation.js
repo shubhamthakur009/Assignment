@@ -1,5 +1,5 @@
  let prime="True";
-    let num=10;
+    let num=11;
 
     for(i=0; i<num ; i++)
     
@@ -7,7 +7,7 @@
         prime=false;
         break;
     }
-    if(prime){
+    if(prime=true){
         console.log("Yes")
     }
     else{
